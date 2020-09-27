@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Sam Ferstein
+ * Assignment 4
+ * This repeats the background when it gets off screen.
+ */
+
 public class RepeatBackground : MonoBehaviour
 {
     private Vector3 startPos;

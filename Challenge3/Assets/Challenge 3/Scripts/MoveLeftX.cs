@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Sam Ferstein
+ * Assignment 4
+ * This moves the objects left.
+ */
+
 public class MoveLeftX : MonoBehaviour
 {
     public float speed;

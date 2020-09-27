@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Sam Ferstein
+ * Assignment 4
+ * This controls the player.
+ */
+
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody playerRb;

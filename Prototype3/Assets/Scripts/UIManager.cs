@@ -3,6 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/*
+ * Sam Ferstein
+ * Assignment 4
+ * This manages the UI.
+ */
+
 public class UIManager : MonoBehaviour
 {
     public int score = 0;

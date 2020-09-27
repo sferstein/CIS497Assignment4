@@ -4,6 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+/*
+ * Sam Ferstein
+ * Assignment 4
+ * This controls the player.
+ */
+
 public class PlayerControllerX : MonoBehaviour
 {
     public bool gameOver;

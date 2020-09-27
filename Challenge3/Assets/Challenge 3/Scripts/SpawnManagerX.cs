@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Sam Ferstein
+ * Assignment 4
+ * This spawns the objects.
+ */
+
 public class SpawnManagerX : MonoBehaviour
 {
     public GameObject[] objectPrefabs;

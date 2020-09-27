@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+ * Sam Ferstein
+ * Assignment 4
+ * This spawns the obstacles.
+ */
+
 public class SpawnManager : MonoBehaviour
 {
     public GameObject obstaclePrefab;
